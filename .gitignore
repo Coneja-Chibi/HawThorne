@@ -1,0 +1,6 @@
+*.bundle
+*.bak
+*.bak_*
+.DS_Store
+Thumbs.db
+wireframes/
